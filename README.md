@@ -3,7 +3,7 @@ User Management API Project (Flask + MySQL + Docker)
 
 Description:  
 Create an API REST with Flask that allows us to create, empty, update and eliminate problems (CRUD).   
-The API is connected to a base of data MySQL using SQLAlchemy like ORM, and the project is dockerized   
+The API is connected to a base of data MySQL using SQLAlchemy like ORM, and the project is dockerized    
 to facilitate the design.
 It includes:  
 ✅ Project Structure  
