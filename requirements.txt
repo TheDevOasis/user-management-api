@@ -1,0 +1,6 @@
+# requirements.txt (Dependencies)
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+PyMySQL
+Werkzeug
