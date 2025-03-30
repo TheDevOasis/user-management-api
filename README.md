@@ -68,7 +68,7 @@ Step 11: Create docker-compose.yml
 Step 12:  Set up the dependencies requirements.txt   
 Step 13:  Create and set the Environment Variables .env       
 Step 14: Build & Run Project with Docker    
-Run  docker-compose ip –build  
+Run  docker-compose ip –-build  
 1.	Open http://127.0.0.1:5000  from Browser & check the JSON message:   
 2.	From Terminal Ubuntu curl -X GET http://127.0.0.1:5000  
 Step 15: Test API with Postman or Curl  
