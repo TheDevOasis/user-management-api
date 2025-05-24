@@ -80,3 +80,9 @@ Step 15: Test API with Postman or Curl
 ✅ SQLAlchemy connects to MySQL.  
 ✅ Virtual environment keeps dependencies organized.  
 ✅ Docker allows containerized deployment.  
+
+...
+📜 License
+MIT License.
+
+Created by geeky4dev – feel free to fork, contribute, or star 🌟 the project!
